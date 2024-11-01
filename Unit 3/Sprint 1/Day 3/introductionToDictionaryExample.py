@@ -221,8 +221,9 @@ for item in studentList:
 #Problem 2: print only those students which has marks less than or equal to 350
 
 
-
-
+for item in studentList:
+    if item["marks"] <= 350:
+        print(item)
 
 
 
