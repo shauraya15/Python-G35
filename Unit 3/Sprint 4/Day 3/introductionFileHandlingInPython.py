@@ -22,7 +22,7 @@
 # file.write("Learning Python")
 
 #Appending Data
-#mode - a - it doesn't erase the data of the file while writing else it add the data end of the existing data in the file.
+#mode - a - it doesn't erase the data of the file while writing else it add the data at the  end of the existing data in the file.
 
 # file = open('./note.txt', 'a')
 # file.write("\nSaerching using Binary Search")
